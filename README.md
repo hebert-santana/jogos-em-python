@@ -1,11 +1,11 @@
 # Jogos em Python
 
-## Jogo da Forca ☠️
+## Jogo da Forca (modelo simples) ☠️
 
-### Executar
+### Execução
 ```
 python jogo-da-forca.py
 ```
 
 ### Demonstração
-![](img/forca.jpeg)
+![](img/forca.jpg)
