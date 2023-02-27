@@ -4,5 +4,8 @@
 
 ### Executar
 ```
-python3 jogo-da-forca.py
+python jogo-da-forca.py
 ```
+
+### Demonstração
+![](img/forca.jpeg)
